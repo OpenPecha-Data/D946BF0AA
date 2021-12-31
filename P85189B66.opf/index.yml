@@ -1,0 +1,11 @@
+id: b08b2b6e4b5a412c85df710a3681a728
+annotation_type: index
+revision: '00001'
+annotations:
+  0d70bd9c6a3d4a1bae897d9e05ffea78:
+    parts: {}
+    span:
+    - vol: 83
+      start: 0
+      end: 2890
+    work_id: D4101
